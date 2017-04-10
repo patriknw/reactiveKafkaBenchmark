@@ -17,3 +17,4 @@ Repo contains:
 </ul>
 
 remember to set up proper kafka address !
+requires local build of reactive-kafka !

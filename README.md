@@ -16,5 +16,6 @@ Repo contains:
 <li>CommittablePartitionedSource - benchmark for committablePartitionedSource</li>
 </ul>
 
-remember to set up proper kafka address !
-requires local build of reactive-kafka !
+
+remember to set up proper kafka address!<br>
+requires local build of reactive-kafka!<br>
